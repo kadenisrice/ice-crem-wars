@@ -1,0 +1,37 @@
+.AdDesigner {
+  margin: 20px 10px;
+}
+
+.AdDesigner h2 {
+  font-family: "Caveat", cursive;
+}
+
+.AdDesigner .vote-for-box {
+  height: 85px;
+  width: 130px;
+  background-color: #222;
+  border: 2px solid white;
+  box-shadow: 0px 0px 5px #000000;
+}
+
+.AdDesigner .vote-for-box .vote-for {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+.AdDesigner .vote-for-box .dynamic-variable {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.AdDesigner .flavor-buttons button,
+.color-themes button,
+.font-size button {
+  border: none;
+  margin-right: 5px;
+  background-color: #0e3c7e;
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
